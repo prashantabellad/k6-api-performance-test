@@ -1,5 +1,10 @@
 # Performance Test using K6
 
+# Install k6
+For example
+# Using Homebrew
+brew install k6
+
 # Test Configuration
 
 • Target: https://jsonplaceholder.typicode.com/posts
