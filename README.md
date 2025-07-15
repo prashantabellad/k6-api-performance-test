@@ -18,4 +18,4 @@
 
 # Test Analysis
 
-You will test analysis report in `PrashantBellad_Performance_Round2_Tests.pdf`
+You will test analysis report in `/biorev/PrashantBellad_Performance_Round2_Tests.pdf`
