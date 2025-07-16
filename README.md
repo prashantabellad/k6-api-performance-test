@@ -17,9 +17,11 @@
 
 1. cd to biorev/final folder
 2. Give access to run_biorev_k6_test
+   
    `chmod +x run_biorev_k6_test`
-3. Run the test
-   `run_biorev_k6_test.sh`
+4. Run the test with command
+   
+   `./run_biorev_k6_test.sh`
 
 # Test Analysis
 
